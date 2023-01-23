@@ -1,0 +1,5 @@
+Bread
+Ham
+Milk
+Eggs
+Coffee
