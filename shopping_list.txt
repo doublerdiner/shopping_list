@@ -3,3 +3,6 @@ Ham
 Milk
 Eggs
 Coffee
+Tea
+Cereal
+Crisps
